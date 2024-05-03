@@ -1,0 +1,12 @@
+.card-container {
+    display: flex;
+    justify-content: center; /* Horizontally center the card */
+    margin-bottom: 16px;
+  }
+  
+  .card {
+    width: 100%;
+    margin-right: 30%;
+    height: 300px;
+  }
+  
